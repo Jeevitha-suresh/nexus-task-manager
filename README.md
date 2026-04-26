@@ -35,3 +35,10 @@
 ```bash
 npm install
 npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+[🌐 View TaskMaster](https://nexus-task-manager-blond.vercel.app)
